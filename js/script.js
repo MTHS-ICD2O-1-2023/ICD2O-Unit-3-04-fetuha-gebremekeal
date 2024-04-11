@@ -16,5 +16,5 @@ function calculateCelsius() {
   const celsius = 5.0 / 9.0* (fahrenheit-32)
 
   // output
-  document.getElementById("celsius").innerHTML = 'Volume is: ' + celsius.toFixed(2) + '<sup> 0'
+  document.getElementById("celsius").innerHTML = 'Celsius is: ' + celsius.toFixed(2) + '<sup> 0'
 }
