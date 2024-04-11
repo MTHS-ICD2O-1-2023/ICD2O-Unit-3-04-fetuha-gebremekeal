@@ -5,7 +5,7 @@
 "use strict"
 
 /**
- * This function calculates volume.
+ * This function calculates celsius.
  */
 function calculateCelsius() {
   // input
